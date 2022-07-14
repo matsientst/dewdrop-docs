@@ -2,14 +2,14 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Dewdrop is an opinionated, simple and powerful framework for implementing event sourcing in Java"
 permalink: /
 ---
 
 # Dewdrop
 {: .fs-9 }
 ## The Java Event Sourcing Framework
-Dewdrop is a simple, fast, and powerful Java based event sourcing framework. The idea of Dewdrop is to make it easy to build an event driven system easily and quickly by pushing all the complex reading, writing and marshalling of events down deep into the framework allowing your team to focus on building out the business logic in terms of AggregateRoot behavior, Query logic, and ReadModel composition. 
+Dewdrop is an opinionated, simple and powerful framework for implementing event sourcing in Java. The idea of Dewdrop is to make it easy to build an event driven system easily and quickly by pushing all the complex reading, writing and marshalling of events down deep into the framework allowing your team to focus on building out the business logic in terms of AggregateRoot behavior, Query logic, and ReadModel composition. 
 
 If you're new to event sourcing we highly suggest understanding the main concepts around the ideas of CQRS, DDD, Event Storming and Event Modeling.
 
