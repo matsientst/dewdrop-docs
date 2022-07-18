@@ -19,7 +19,7 @@ Currently, Dewdrop only supports using [EventStore](https://www.eventstore.com/)
 
 Requirements:
 * Java 11 or later
-* EventStore
+* EventStoreDB 
 
 {: .fs-6 .fw-300 }
 
