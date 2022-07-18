@@ -32,7 +32,7 @@ aux_links_new_tab: true
 color_scheme: oswald
 
 # Build settings
-theme: just-the-docs
+theme: "just-the-docs"
 plugins:
   - jekyll-feed
 
