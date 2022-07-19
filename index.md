@@ -4,6 +4,7 @@ title: Dewdrop Home
 nav_order: 1
 description: "Dewdrop is an opinionated, simple and powerful framework for implementing event sourcing in Java"
 permalink: /
+author: Matt Macchia
 ---
 
 # Dewdrop
