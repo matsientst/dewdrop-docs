@@ -2,7 +2,8 @@
 layout: default
 title: Dewdrop Home 
 nav_order: 1
-description: "Dewdrop is an opinionated, simple and powerful framework for implementing event sourcing in Java"
+description: >- 
+Dewdrop is an opinionated, simple and powerful framework for implementing event sourcing in Java. The idea of Dewdrop is to make it easy to build an event driven system easily and quickly by pushing all the complex reading, writing and marshalling of events down deep into the framework allowing your team to focus on building out the business logic in terms of AggregateRoot behavior, Query logic, and ReadModel composition.
 permalink: /
 author: Matt Macchia
 image: /assets/images/dewdrop.jpg
