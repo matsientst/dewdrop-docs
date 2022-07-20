@@ -30,6 +30,7 @@ permalink: pretty
 search_enabled: false
 aux_links_new_tab: true
 color_scheme: oswald
+ga_tracking: G-7FTYTL2Q76
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs
